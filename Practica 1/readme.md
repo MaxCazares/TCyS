@@ -1,0 +1,2 @@
+# Consideraciones para la práctica 1
+Para la simulación de los circuitos se puede usar tanto [Proteus 8.10](https://www.youtube.com/watch?v=e6FUNgGF7gk) como [Multisim](https://www.ni.com/es-mx/support/downloads/software-products/download.multisim.html#312060). Sin embargo, los circuitos dentro de este repositorio fueron hechos en Multisim. 
